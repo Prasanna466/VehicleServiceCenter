@@ -1,0 +1,2 @@
+2026-10-11T00:00:06.927+05:30  INFO 8796 --- [VehicleServiceCenter] [scheduling-1] c.e.V.scheduler.PendingWorkScheduler     : Pending-work scheduler triggered
+2026-10-11T00:00:07.131+05:30  INFO 8796 --- [VehicleServiceCenter] [scheduling-1] c.e.V.scheduler.PendingWorkScheduler     : Scheduled Check | Pending Service Requests: 5 | Pending Invoices: 3
